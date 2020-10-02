@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Theses/Abschlussarbeiten"
-    url: /_data/theses.md
+    url: /theses/
   - title: "Team"
-    url: /_data/team.md
+    url: /team/
   - title: "Github"
     url: https://github.com/TriPed-Robot
   # - title: "Sample Collections"
