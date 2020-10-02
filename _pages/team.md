@@ -8,6 +8,7 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
+## Lorenzo Masia 
 
 ## Jan Baumgärnter
 
