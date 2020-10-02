@@ -2,12 +2,10 @@
 main:
   - title: "Theses/Abschlussarbeiten"
     url: /theses/
-  - title: "Team"
+  - title: "Team/Kontakt"
     url: /team/
   - title: "Github"
     url: https://github.com/TriPed-Robot
-  - title: "Kontakt"
-    url: /kontakt/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
