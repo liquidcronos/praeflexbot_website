@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "TriPed Project"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Studying cooperation between Humans and Machines"
+  location         : "ARIES Lab Heidelberg University"
   email            :
   links:
     - label: "Email"
