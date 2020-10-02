@@ -8,7 +8,7 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
-![logo](https://triped-robot.github.io/V2_logo_with_font(2).png)
+![logo](https://triped-robot.github.io/V2_logo_with_font.png)
 
 ## Welcome to the TriPed Project
 We are interested in the cooperation of humans and machinesm particularly how machines can help people walk.
@@ -19,7 +19,7 @@ The goal is to investigate how several independent systems can walk together or 
 The findings will be used to develop and control "automatic crutches" that walk on their own while stabilising the user.
 
 
-![robot](https://triped-robot.github.io/triped_poster.png)
+![robot](https://triped-robot.github.io/triped_poster(2).png)
  
 ## Student involvment
 The project, called TriPed, will start in the winter semester 2020/2021 and will be largely supported by students. 
