@@ -1,7 +1,7 @@
 # main links
 main:
- - title: "Sample Posts"
-     url: about.md
+  - title: "About"
+    url: /about.md
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
