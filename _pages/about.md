@@ -19,7 +19,7 @@ The goal is to investigate how several independent systems can walk together or 
 The findings will be used to develop and control "automatic crutches" that walk on their own while stabilising the user.
 
 
-![robot](https://triped-robot.github.io/triped_poster(2).png)
+![robot](https://triped-robot.github.io/triped_poster (2).png)
  
 ## Student involvment
 The project, called TriPed, will start in the winter semester 2020/2021 and will be largely supported by students. 
