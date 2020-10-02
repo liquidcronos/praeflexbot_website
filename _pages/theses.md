@@ -16,16 +16,41 @@ Note that we are always looking for interested and motivated students, so if you
 Currently there are no open thesis
 
 ## Ongoing theses / Laufende Arbeiten
-| student | Thesis Topic/ Thema der Arbeit | Type of Thesis/ Art der Arbeit | Studies/ Studiengang |
-|---------|--------------------------------|--------------------------------|----------------------|
-| Sawera Iqbal   |   Design and sensor Readout of Motor Testbench  | Practical                               |    Inf                  |
-|         |                                |                                |                      |
-
+<table>
+    <tr>
+        <td>student</td>
+        <td>Thesis Topic/ Thema der Arbeit</td>
+        <td>Type of Thesis/ Art der Arbeit</td>
+        <td>Studies/ Studiengang</td>
+    </tr>
+    <tr>
+        <td>Sawera Iqbal</td>
+        <td>Design and sensor Readout of Motor Testbench</td>
+        <td>Practical</td>
+        <td>Inf</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 ## completed theses / Abgeschlossene Arbeiten
-| student | Thesis Topic/ Thema der Arbeit | Type of Thesis/ Art der Arbeit | Studies/ Studiengang |
-|---------|--------------------------------|--------------------------------|----------------------|
-|    Max Goebel     |   Modelling and Simulation of a three-legged robot    |B.Sc. |       Inf, Physics, Math               |
-
+<table>
+    <tr>
+        <td>student</td>
+        <td>Thesis Topic/ Thema der Arbeit</td>
+        <td>Type of Thesis/ Art der Arbeit</td>
+        <td>Studies/ Studiengang</td>
+    </tr>
+    <tr>
+        <td>Max Goebel</td>
+        <td>Modelling and Simulation of a three-legged robot</td>
+        <td>B.Sc.</td>
+        <td>Inf, Physics, Math</td>
+    </tr>
+</table>
 
 
 
