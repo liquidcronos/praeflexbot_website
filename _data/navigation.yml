@@ -6,6 +6,8 @@ main:
     url: /_data/theses.md
   - title: "Team"
     url: /_data/team.md
+  - title: "Github"
+    url: https://github.com/TriPed-Robot
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
