@@ -6,6 +6,8 @@ main:
     url: /team/
   - title: "Github"
     url: https://github.com/TriPed-Robot
+  - title: "Kontakt"
+    url: /kontakt/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
