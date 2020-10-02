@@ -8,7 +8,7 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
-![logo](https://triped-robot.github.io/V2_logo_with_font.png)
+![logo](https://triped-robot.github.io/V2_logo_with_font(2).png)
 
 ## Welcome to the TriPed Project
 We are interested in the cooperation of humans and machinesm particularly how machines can help people walk.
