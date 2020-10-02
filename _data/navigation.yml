@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /_data/about.md
+    url: /_data/
   - title: "Theses/Abschlussarbeiten"
     url: /_data/theses.md
   - title: "Team"
