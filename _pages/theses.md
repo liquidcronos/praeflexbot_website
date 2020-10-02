@@ -36,7 +36,9 @@ Currently there are no open thesis
         <td></td>
     </tr>
 </table>
+
 ## completed theses / Abgeschlossene Arbeiten
+
 <table>
     <tr>
         <td>student</td>
