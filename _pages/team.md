@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "About"
+title: "The Team"
 layout: collection
 layouts_gallery:
   - url: triped_web_banner.png
