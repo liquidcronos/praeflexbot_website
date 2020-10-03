@@ -11,9 +11,31 @@ toc: true
 ---
 
 The Following is a list of open current and completed thesis at this lab.
-Note that we are always looking for interested and motivated students, so if you have an idea for a thesis feel free to contact us!
+We believe that a thesis is a great opportunity to learn a new skill.  
+So while previous experiences with robotics or realtime control systems are appreciated, is is not necessary to apply for a thesis with us.  
+Note also that we are always open to your own research interests and ideas, feel free to contact us with your own Ideas for a thesis or a seminar.
+
 ## Offered theses / Angebotene Arbeiten
-Currently there are no open thesis
+<table>
+    <tr>
+        <td>student</td>
+        <td>Thesis Topic/ Thema der Arbeit</td>
+        <td>Type of Thesis/ Art der Arbeit</td>
+        <td>Studies/ Studiengang</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td> Joint Control of three legged Robot</td>
+        <td>B.Sc.</td>
+        <td>Inf, Physics, Math</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Trajectory Planning for closed kinematic mechanims at the example of a three legged Robot</td>
+        <td>B.Sc.</td>
+        <td>Inf, Physics, Math</td>
+    </tr>
+</table>
 
 ## Ongoing theses / Laufende Arbeiten
 <table>
