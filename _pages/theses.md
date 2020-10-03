@@ -9,31 +9,31 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
+We offer a wide variety of theses in the field of Computer Engineering (Comp.E.), Physcs and Computer Science (Inf).
 
-The Following is a list of open current and completed thesis at this lab.
 We believe that a thesis is a great opportunity to learn a new skill.  
 So while previous experiences with robotics or realtime control systems are appreciated, is is not necessary to apply for a thesis with us.  
-Note also that we are always open to your own research interests and ideas, feel free to contact us with your own Ideas for a thesis or a seminar.
+Note also that we are always open to your own research interests and ideas, feel free to contact us with your own Ideas for a thesis or a seminar.  
+While we prefer english thesis, all thesis can be, if the examination regulations permit it, written in German. 
+
+The Following is a list of open current and completed thesis at this lab.
 
 ## Offered theses / Angebotene Arbeiten
 <table>
     <tr>
-        <td>student</td>
         <td>Thesis Topic/ Thema der Arbeit</td>
         <td>Type of Thesis/ Art der Arbeit</td>
         <td>Studies/ Studiengang</td>
     </tr>
     <tr>
-        <td></td>
         <td> Joint Control of three legged Robot</td>
         <td>B.Sc.</td>
-        <td>Inf, Physics, Math</td>
+        <td>Inf, Physics</td>
     </tr>
     <tr>
-        <td></td>
         <td>Trajectory Planning for closed kinematic mechanims at the example of a three legged Robot</td>
         <td>B.Sc.</td>
-        <td>Inf, Physics, Math</td>
+        <td>Inf, Physics</td>
     </tr>
 </table>
 
@@ -72,7 +72,7 @@ Note also that we are always open to your own research interests and ideas, feel
         <td>Max Goebel</td>
         <td>Modelling and Simulation of a three-legged robot</td>
         <td>B.Sc.</td>
-        <td>Inf, Physics, Math</td>
+        <td>Inf, Physics</td>
     </tr>
     <tr>
         <td>Jan Baumgärtner</td>
