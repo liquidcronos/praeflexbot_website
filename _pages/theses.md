@@ -2,21 +2,21 @@
 permalink: /theses/
 title: "Bachelor, Master and Diploma theses / Abschlussarbeiten"
 layout: single
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Theses offered at the TriPed Project"
 layouts_gallery:
   - url: triped_web_banner.png
     image_path: triped_web_banner.png
     alt: "triped web banner"
 toc: true
 ---
-We offer a wide variety of theses in the field of Computer Engineering (TI), Physcs and Computer Science (Inf).
+We offer a wide variety of theses in the field of Computer Engineering (TI), Physics, and Computer Science (Inf).
 
 We believe that a thesis is a great opportunity to learn a new skill.  
-So while previous experiences with robotics or realtime control systems are appreciated, is is not necessary to apply for a thesis with us.  
-Note also that we are always open to your own research interests and ideas, feel free to contact us with your own Ideas for a thesis or a seminar.  
-While we prefer english thesis, all thesis can be, if the examination regulations permit it, written in German. 
+So while previous experiences with robotics or realtime control systems are appreciated, it is not necessary to apply for a thesis with us.  
+Note also that we are always open to your research interests and ideas, feel free to contact us with your ideas for a thesis or a seminar.  
+While we prefer English thesis, all thesis can be, if the examination regulations permit it, written in German. 
 
-The Following is a list of open current and completed thesis at this lab.
+The following is a list of open current and completed thesis at this lab.
 
 ## Offered theses / Angebotene Arbeiten
 <table>
