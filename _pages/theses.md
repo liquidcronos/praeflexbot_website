@@ -9,7 +9,7 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
-We offer a wide variety of theses in the field of Computer Engineering (Comp.E.), Physcs and Computer Science (Inf).
+We offer a wide variety of theses in the field of Computer Engineering (TI), Physcs and Computer Science (Inf).
 
 We believe that a thesis is a great opportunity to learn a new skill.  
 So while previous experiences with robotics or realtime control systems are appreciated, is is not necessary to apply for a thesis with us.  
@@ -81,7 +81,7 @@ menschlicher Intention zur Lösung eines
 kooperativen Mensch-Maschine-Spiels am
 Beispiel einer künstlichen Gehhilfe</td>
         <td>Study Thesis</td>
-        <td>Comp.E.</td>
+        <td>TI</td>
     </tr>
 </table>
 
