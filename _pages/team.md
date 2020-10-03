@@ -28,6 +28,6 @@ Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>
 Simulations Engineer
 Office: INF 468 4 OG. Room 408 <br> 
 ## Sören Ducatti
-Embedded Engineer
+Embedded Engineer <br>
 Office: INF 468 4 OG. Room 408 <br> 
 Email: ducati@stud.uni-heidelberg.de <br>
