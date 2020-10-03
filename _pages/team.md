@@ -25,9 +25,9 @@ Office: INF 468 4 OG. Room 408 <br>
 Tel:  06221 - 54 16340<br> 
 Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>   
 ## Max Goebel
-Simulations Engineer
+Simulations Engineer TriPed Project <br>
 Office: INF 468 4 OG. Room 408 <br> 
 ## Sören Ducatti
-Embedded Engineer <br>
+Embedded Engineer TriPed Project<br>
 Office: INF 468 4 OG. Room 408 <br> 
 Email: ducati@stud.uni-heidelberg.de <br>
