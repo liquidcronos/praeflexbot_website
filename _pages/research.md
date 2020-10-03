@@ -19,7 +19,7 @@ As a consequence, patients are still dependent on crutches for weeks after the o
 
 <p> The ultimate aim of this project is to develop autonomous crutches that lift those restrictions and help the patients regain a normal life.
 The device should also be able to be used as a rehabilitation device that trains the patient on how to walk again. </p>
-
+![research aim](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/research_aim.png)
 
 ## But why a Robot?
 <p>
