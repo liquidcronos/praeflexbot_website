@@ -18,7 +18,7 @@ Project Lead and coordinator of the TriPed Project <br>
 Website:  <a href="https://liquidcronos.github.io/"> liquidcronos.github.io</a> <br>
 Office: INF 468 4 OG. Room 410 <br>
 Tel:  06221 - 54 16343 <br>
-Email: <br>  
+Email: liquidcronos@gmail.com <br>  
 ## Frank Stolzenberger
 Lead Engineer of the Medical Technology Group at Heidelberg University <br>
 Office: INF 468 4 OG. Room 408 <br> 
