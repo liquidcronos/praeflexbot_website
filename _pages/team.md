@@ -24,9 +24,10 @@ Lead Engineer of the Medical Technology Group at Heidelberg University <br>
 Office: INF 468 4 OG. Room 408 <br> 
 Tel:  06221 - 54 16340<br> 
 Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>   
-## Max Goebel
+## Max Goebels
 Simulations Engineer TriPed Project <br>
 Office: INF 468 4 OG. Room 408 <br> 
+Email: Goebels@stud.uni-heidelberg.de <br>
 ## Sören Ducati
 Embedded Engineer TriPed Project<br>
 Office: INF 468 4 OG. Room 408 <br> 
