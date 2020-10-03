@@ -43,7 +43,7 @@ Even with a cenral agent controlling everything, the control of walking robots i
 For this reason we also interested in the general control of walking robots.
 Our particular area of focus is the control of so called closed kinematic chains which are configurations where multiple actuators influence the same endpoint.
 This is not only because the triped iself can be thought of as a closed kinematic but also because each subrobot uses a closed kinematic chain to swing its leg.
-![level mechanism](hebel1.png" alt="closed kinematic chain)
+![level mechanism](https://github.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/Hebel_1.PNG)
 
 ---
 
