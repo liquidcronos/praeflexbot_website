@@ -28,10 +28,10 @@ This approach doesn't work for automatic crutches, consider for example the case
 Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine. </p> 
 
 <p> Which is why we need to understand cooperation between different agents first before we can develop autonomous crutches. <br>
-This is where the Triped comes in. The Robotic platform allows us to study the principles of cooperative walking.
-This encompasses what kind of sensory information each player needs as well as how a player can evaluate the actions of the other players in terms of their intention and safety
+This is where the Triped comes in. The Robotic platform allows us to study the principles of cooperative walking by dividing the System into three autonomous "Players".
+Among our interests are not only what kind of sensory information each player needs to cooperate with the other ones but most importantly how they can coordinate themself to cooperate efficiently without directly exchaning data. 
 </p>
-![triped robot](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped.png)
+![triped robot](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped_game.png)
 
 ## Modelling Cooperation
 We Aim to model the cooperation of Human and Machine using a simplified interaction model which abstracts each player to a set of forces and constraints he can impart on the system <br>
