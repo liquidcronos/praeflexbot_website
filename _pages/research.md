@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "Research"
+permalink: /research/
+title: "About"
 layout: single
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
