@@ -52,6 +52,15 @@ Currently there are no open thesis
         <td>B.Sc.</td>
         <td>Inf, Physics, Math</td>
     </tr>
+    <tr>
+        <td>Jan Baumgärtner</td>
+        <td>Maximum Likelihood Estimation
+menschlicher Intention zur Lösung eines
+kooperativen Mensch-Maschine-Spiels am
+Beispiel einer küunstlichen Gehhilfe</td>
+        <td>Study Thesis</td>
+        <td>Comp.E.</td>
+    </tr>
 </table>
 
 
