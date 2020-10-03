@@ -57,7 +57,7 @@ Currently there are no open thesis
         <td>Maximum Likelihood Estimation
 menschlicher Intention zur Lösung eines
 kooperativen Mensch-Maschine-Spiels am
-Beispiel einer küunstlichen Gehhilfe</td>
+Beispiel einer künstlichen Gehhilfe</td>
         <td>Study Thesis</td>
         <td>Comp.E.</td>
     </tr>
