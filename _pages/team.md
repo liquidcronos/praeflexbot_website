@@ -11,7 +11,7 @@ toc: true
 ## Prof. Lorenzo Masia 
 Head of Medical Technology Group at Heidelberg University <br>
 Website:  <a href="https://www.lorenzomasia.com/">lorenzomasia.com</a> <br>
-Tel: 	+49 6221 54 16380
+Tel: 	06221 - 54 16380 <br>
 Email: lorenzo.masia@ziti.uni-heidelberg.de
 ## Jan Baumgärtner
 Project Lead and coordinator of the TriPed Project <br>
@@ -22,7 +22,7 @@ Email: liquidcronos@gmail.com <br>
 ## Frank Stolzenberger
 Lead Engineer of the Medical Technology Group at Heidelberg University <br>
 Office: INF 468 4 OG. Room 408 <br> 
-Tel:  06221 - 54 16340<br> 
+Tel:  06221 - 54 16340 <br> 
 Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>   
 ## Max Goebels
 Simulations Engineer TriPed Project <br>
