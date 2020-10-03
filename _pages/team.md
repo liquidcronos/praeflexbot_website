@@ -15,15 +15,19 @@ Tel: 	+49 6221 54 16380
 Email: lorenzo.masia@ziti.uni-heidelberg.de
 ## Jan Baumgärnter
 Project Lead and coordinator of the TriPed Project <br>
-Website:  <a href="https://liquidcronos.github.io/">liquidcronos.github.io</a> <br>
-Office: INF 468 4 OG. Room 412 <br>
-Tel: <br>
+Website:  <a href="https://liquidcronos.github.io/"> liquidcronos.github.io</a> <br>
+Office: INF 468 4 OG. Room 410 <br>
+Tel:  06221 - 54 16343 <br>
 Email: <br>  
 ## Frank Stolzenberger
 Lead Engineer of the Medical Technology Group at Heidelberg University <br>
-Office: <br> 
-Tel:   <br> 
-Email: <br>   
+Office: INF 468 4 OG. Room 408 <br> 
+Tel:  06221 - 54 16340<br> 
+Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>   
 ## Max Goebel
-
+Simulations Engineer
+Office: INF 468 4 OG. Room 408 <br> 
 ## Sören Ducatti
+Embedded Engineer
+Office: INF 468 4 OG. Room 408 <br> 
+Email: ducati@stud.uni-heidelberg.de <br>
