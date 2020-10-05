@@ -8,6 +8,12 @@ layouts_gallery:
     alt: "triped web banner"
 toc: true
 ---
+
+## Prof Essa Essameddin Badreddin
+(Emeritus) Head of Autonomous Systems Group at Heidelberg University <br>
+Website:  <a href="https://www.ziti.uni-heidelberg.de/ziti/en/institute/research/38-ziti-group/menue/560-automation-laboratory">automation laboratory</a> <br>
+Email: badreddin@ziti.uni-heidelberg.de
+
 ## Prof. Lorenzo Masia 
 Head of Medical Technology Group at Heidelberg University <br>
 Website:  <a href="https://www.lorenzomasia.com/">lorenzomasia.com</a> <br>
