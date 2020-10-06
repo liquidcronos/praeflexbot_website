@@ -1,0 +1,23 @@
+---
+permalink: /robotics/
+title: "Robotics Network at Heidelberg University"
+layout: single
+excerpt: "There are multiple Labs working on Robotics Related Problems"
+layouts_gallery:
+  - url: triped_web_banner.png
+    image_path: triped_web_banner.png
+    alt: "triped web banner"
+toc: true
+---
+
+There are multiple Labs working on Robotic Related Problems and offering Robotics Teaching.
+This Site is a short overwiev of available lectures and practicals and how the TriPed is involved with them.
+All of these Institutions are part of the <a href="https://www.ziti.uni-heidelberg.de/ziti/en/institute/research"> Ziti</a>, which offers the nonconsecutive Master  <a href="https://www.ziti.uni-heidelberg.de/ziti/de/studium/msc-ti/502-profil-des-studiengangs"> computer engineering </a>.
+The Master offeres a specialisation in Robotics with which multiple of these courses are acosiated with.
+It should be noted however that most of these courses are also applicable to physics, maths and computer science students, please check your "modulhandbuch" for more information.
+
+
+
+# ARIES Lab
+Professor Masias <a href="https://www.lorenzomasia.com/lab-and-people">Aries Lab</a> is the home of the TriPed Robot.
+The Lab of
