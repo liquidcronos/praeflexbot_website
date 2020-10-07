@@ -20,28 +20,33 @@ It should be noted however that most of these courses are also be attendet by ph
 
 
 ## Theoretical Robotics Courses
-### Robotics 1
+The following courses provide theoretical foundations obout robotics.  
+Students will learn how to model a robot like the TriPed and controll it using techniques like optimal control. 
+#### Robotics 1
 
-### Robotics 2
+#### Robotics 2
 
-### Biomechanics and Biorobotics
+#### Biomechanics and Biorobotics
 
-### Haptics and Human Robot Interaction / Rehabilitation
+#### Haptics and Human Robot Interaction / Rehabilitation
 
 ## Practical Robotics Courses
+The following courses provide practical experience obout robotics. 
+Students will learn how to programm robots using a variety of industry standart tools.
+#### Robotics Practica
 
-### Robotics Practica
-
-### Robotic Games
+#### Robotic Games
 
 ## Courses on Embedded Controller Design
+While not technically about robotics, the triped robot is dependent opon embedded controllers witch actuate its legs and ensure the safety of the system.  
+Such controllers can be implemented on microcontrollers, FGGAs or other embedded hardware.  
+The following courses provide not only the foundation of control theory (on which a lot of robotic tools build upon) but also intrduction to embedded development.
+#### Control Systems Design
 
-### Control Systems Design
+#### Reconfigurable Embedded Systems
 
-### Reconfigurable Embedded Systems
+#### Parallel System Architecture
 
-### Parallel System Architecture
-
-### Microcontroller Based Embedded Systems
+#### Microcontroller Based Embedded Systems
 
 
