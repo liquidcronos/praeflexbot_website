@@ -22,6 +22,8 @@ When in 2019 a new research cooperation between Professor Badreddins <a href="ht
 <a href="https://www.imt.uni-stuttgart.de/en/">Institute of Medical Device Technology </a> had need for a demonstrator, a new version of the robot was build by Peter Potts team and delivered to Heidelberg.
 Since Professor Badreddin has retired, the TriPed robot now serves as part of the Aries lab.
 
+![old triped](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped_asm.jpg)
+
 # Research
 ## Ultimate Research Aim
 <p>It is known that the rehabilitation phase after an operation is as important as the operation itself.<br>
