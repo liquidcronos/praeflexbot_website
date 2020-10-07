@@ -19,8 +19,8 @@ The first theoretical research on the TriPed considered how such a system could 
 The Original Version however was never build.
 
 When in 2019 a new research cooperation between Professor Badreddins <a href="https://www.ziti.uni-heidelberg.de/ziti/en/institute/research/38-ziti-group/menue/560-automation-laboratory">automation lab</a>, Professor Masias  <a href="https://www.lorenzomasia.com/lab-and-people">aries lab</a> and Professor Peter Potts 
-<a href="https://www.imt.uni-stuttgart.de/en/">Institute of Medical Device Technology </a> had need for a demonstrator, a new version of the robot was build by Peter Potts team and delivered to Heidelberg.
-Since Professor Badreddin has retired, the TriPed robot now serves as part of the Aries lab.
+<a href="https://www.imt.uni-stuttgart.de/en/">Institute of Medical Device Technology </a> had need for a demonstrator, a new version of the robot was disgned build by Peter Potts team and delivered to Heidelberg.
+Since Professor Badreddin has retired, the new TriPed robot now serves as part of the Aries lab.
 
 ![old triped](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped_asm.jpg)
 
