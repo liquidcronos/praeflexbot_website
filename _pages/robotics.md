@@ -13,8 +13,8 @@ toc: true
 If the TriPed peaked your interest, you might ask yourself how you can get involved in Robotics at the Heidelberg University.
 This Site is a short overwiev of available lectures and practicals and how they would help you getting the necesarry knowledge to be involved with the TriPed.
 
-All of the Instructors of these courses are part of the <a href="https://www.ziti.uni-heidelberg.de/ziti/en/institute/research"> Ziti</a>, which offers the nonconsecutive Master  <a href="https://www.ziti.uni-heidelberg.de/ziti/de/studium/msc-ti/502-profil-des-studiengangs"> computer engineering </a>.
-The Master offeres a specialisation in Robotics with which multiple of these courses are acosiated with.
+All of these courses are part of the <a href="https://www.ziti.uni-heidelberg.de/ziti/en/institute/research"> Ziti</a>, which offers the nonconsecutive Master  <a href="https://www.ziti.uni-heidelberg.de/ziti/de/studium/msc-ti/502-profil-des-studiengangs"> computer engineering </a>.  
+The Master offeres a specialisation in Robotics with which multiple of these courses are acosiated with.  
 It should be noted however that most of these courses are also be attendet by physics, maths and computer science students, please check your "modulhandbuch" for more information.
 
 
