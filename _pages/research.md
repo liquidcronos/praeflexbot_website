@@ -10,6 +10,9 @@ layouts_gallery:
 toc: true
 ---
 
+
+
+
 ## Ultimate Research Aim
 <p>It is known that the rehabilitation phase after an operation is as important as the operation itself.<br>
 In the case of major abdominal operations or longer periods of bed rest, the patient often has to learn to walk again.
