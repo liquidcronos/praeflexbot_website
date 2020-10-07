@@ -21,7 +21,7 @@ It should be noted however that most of these courses are also be attendet by ph
 
 ## Theoretical Robotics Courses
 The following courses provide theoretical foundations obout robotics.  
-Students will learn how to model a robot like the TriPed and controll it using techniques like optimal control. 
+Students will learn how to model a robot like the TriPed and controll it using optimal control techniques. 
 #### Robotics 1
 
 #### Robotics 2
