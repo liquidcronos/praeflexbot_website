@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
+    url: /about/  
+  - title: "Research"
     url: /research/
   - title: "Theses/Abschlussarbeiten"
     url: /theses/
   - title: "Team/Kontakt"
     url: /team/
-  - title: "Robotics at Heidelberg"
-    url: /robotics/
   - title: "Github"
     url: https://github.com/TriPed-Robot
   # - title: "Sample Collections"
