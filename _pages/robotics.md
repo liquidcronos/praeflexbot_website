@@ -1,5 +1,5 @@
 ---
-permalink: /robotics/
+permalink: /about/
 title: "Robotics Network at Heidelberg University"
 layout: single
 excerpt: "There are multiple Labs working on Robotics Related Problems"
