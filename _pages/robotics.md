@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Robotics Network at Heidelberg University"
+title: "About"
 layout: single
 excerpt: "There are multiple Labs working on Robotics Related Problems"
 layouts_gallery:
@@ -10,7 +10,7 @@ layouts_gallery:
 toc: true
 ---
 
-# History
+# History of the TriPed
 The TriPed was first invisioned by Professor Badreddin in 2002 as a non biomimetic robot.
 Meaning a robot, which unlike conventional walking machines, is not inspired by animals but instead the fundamental principles of walking.
 
