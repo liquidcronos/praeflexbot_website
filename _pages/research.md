@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "About"
+title: "Research"
 layout: single
 excerpt: "The TriPed is a 3 legged Robot investigating human machine /machine machine cooperation"
 layouts_gallery:
