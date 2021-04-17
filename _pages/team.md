@@ -34,7 +34,13 @@ Email: frank.stolzenberger@ziti.uni-heidelberg.de <br>
 Simulations Engineer TriPed Project <br>
 Office: INF 468 4 OG. Room 408 <br> 
 Email: Goebels@stud.uni-heidelberg.de <br>
+
+# Former Members
 ## Sören Ducati
 Embedded Engineer TriPed Project<br>
 Office: INF 468 4 OG. Room 408 <br> 
 Email: ducati@stud.uni-heidelberg.de <br>
+
+## Simon Ott0
+Embedded Engineer TriPed Project<br>
+Office: INF 468 4 OG. Room 410 <br> 
