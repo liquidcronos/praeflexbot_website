@@ -41,6 +41,6 @@ Embedded Engineer TriPed Project<br>
 Office: INF 468 4 OG. Room 408 <br> 
 Email: ducati@stud.uni-heidelberg.de <br>
 
-## Simon Ott0
+## Simon Otto
 Embedded Engineer TriPed Project<br>
 Office: INF 468 4 OG. Room 410 <br> 
