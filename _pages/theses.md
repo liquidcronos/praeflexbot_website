@@ -26,14 +26,10 @@ The following is a list of open current and completed thesis at this lab.
         <td>Studies/ Studiengang</td>
     </tr>
     <tr>
-        <td> Joint Control of three legged Robot</td>
-        <td>B.Sc.</td>
-        <td>Inf, Physics</td>
-    </tr>
-    <tr>
-        <td>Trajectory Planning for closed kinematic mechanims at the example of a three legged Robot</td>
-        <td>B.Sc.</td>
-        <td>Inf, Physics</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
@@ -49,6 +45,18 @@ The following is a list of open current and completed thesis at this lab.
         <td>Sawera Iqbal</td>
         <td>Design and sensor Readout of Motor Testbench</td>
         <td>Practical</td>
+        <td>Inf</td>
+    </tr>
+      <tr>
+        <td>Sawera Iqbal</td>
+        <td> Joint Control of three legged Robot</td>
+        <td>B.Sc.</td>
+        <td>Inf</td>
+    </tr>
+      <tr>
+        <td>Torben Miller</td>
+        <td>Trajectory Planning for closed kinematic mechanims at the example of a three legged Robot</td>
+        <td>B.Sc.</td>
         <td>Inf</td>
     </tr>
     <tr>
@@ -73,6 +81,12 @@ The following is a list of open current and completed thesis at this lab.
         <td>Modelling and Simulation of a three-legged robot</td>
         <td>B.Sc.</td>
         <td>Inf, Physics</td>
+    </tr>
+      <tr>
+        <td>Jan Baumgärtner</td>
+        <td>Implementation of Kinematic Gait Generator</td>
+        <td>Master Thesis</td>
+        <td>TI</td>
     </tr>
     <tr>
         <td>Jan Baumgärtner</td>
