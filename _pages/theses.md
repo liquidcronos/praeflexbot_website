@@ -55,7 +55,7 @@ The following is a list of open current and completed thesis at this lab.
     </tr>
       <tr>
         <td>Torben Miller</td>
-        <td>Trajectory Planning for closed kinematic mechanims at the example of a three legged Robot</td>
+        <td>TriP a Kinematics Library for Hybrid manipulators</td>
         <td>B.Sc.</td>
         <td>Inf</td>
     </tr>
