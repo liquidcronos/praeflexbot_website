@@ -17,7 +17,7 @@ The length of the leg is controlled by the so called extend motor which moves th
 The angle is controlled by two motors located on the chassis which move the hip of the robot (called drive module) via two coupling rods.
 
 
-The full structure of the lsgs can be seen in the figure below.
+The full structure of the legs can be seen in the figure below.
 It shows all joints in turquoise, as well as all the motors and sensors, pictured in orange and green respectively.
 Note that the motors and force sensors on the right hand sight are normally connected to the chassis.
 ![chassis layers](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_leg_ros.png)
