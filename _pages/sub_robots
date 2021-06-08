@@ -1,8 +1,8 @@
 ---
-permalink: /Legs/
-title: "One Legged Subrobot"
+permalink: /about/
+title: "About"
 layout: single
-excerpt: "Each Leg of the TriPed hase 3 degrees of freedom allowing ..."
+excerpt: "There are multiple Labs working on Robotics Related Problems"
 layouts_gallery:
   - url: triped_web_banner.png
     image_path: triped_web_banner.png
