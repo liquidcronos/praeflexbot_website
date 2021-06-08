@@ -3,6 +3,7 @@ permalink: /docs/legs/
 title: "One Legged Subrobot"
 layout: single
 excerpt: "Each Leg of the TriPed hase 3 degrees of freedom allowing ..."
+collection: docs
 layouts_gallery:
   - url: triped_web_banner.png
     image_path: triped_web_banner.png
