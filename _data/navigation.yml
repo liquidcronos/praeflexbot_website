@@ -34,7 +34,7 @@ docs:
         url: /docs/software_arch/
       - title: "Getting started"
         url: /docs/getting_started/
-
+        
   - title: Matlab Simulation
 	  children: 
       - title: "About"
