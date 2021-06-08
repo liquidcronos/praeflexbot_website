@@ -32,5 +32,5 @@ A general high level wiring scheme can be seen down below
 
 This abstract wiring scheme is implemented using a custom cape seen below which is stacked upon a [can cape](https://www.waveshare.com/wiki/RS485_CAN_CAPE)
 
-![beaglebone cape]((https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/bbb_cape.png)
+![beaglebone cape](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/bbb_cape.png)
 
