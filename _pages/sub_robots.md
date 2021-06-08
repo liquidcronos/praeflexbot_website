@@ -11,7 +11,6 @@ layouts_gallery:
 toc: true
 ---
 
-{% include base_path %}
 
 Each Leg of the TriPed hase 3 degrees of freedom allowing the control of the legs pitch and roll as well as its length.
 The length of the leg is controlled by the so called extend motor which moves the rounded leg upwards and downwards using a belt.
