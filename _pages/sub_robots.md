@@ -18,7 +18,7 @@ The angle is controlled by two motors located on the chassis which move the hip 
 The full structure of the lsgs can be seen in the figure below.
 It shows all joints in turquoise, as well as all the motors and sensors, pictured in orange and green respectively.
 Note that the motors and force sensors on the right hand sight are normally connected to the chassis.
-![chassis layers](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/triped_leg_ros.png)
+![chassis layers](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_leg_ros.png)
 The next sections will go into more detail about how the robot is actuated.
 A full overview of the kinematics of each joint can be found in [Triped Kinematics](https://github.com/TriPed-Robot/Wiki/wiki/Kinematics).
 
@@ -34,20 +34,20 @@ In the full system the swing motors are affixed to the chassis and control the a
 Since the motors need to supply a lot of torque to the system a harmonic gear with a gear reduction of 1:50  is used to actuate the mechanism.
 This gearbox results in low coupling between the forces of both motors.
 The full system can be seen in the figure below
-![swing motor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/swing_motor.png)
+![swing motor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/swing_motor.png)
 The TriPed uses [Hacker A50 Brushless Motors](https://github.com/TriPed-Robot/Hardware-Specifications/blob/master/Roboter/actuation/swing_motor_documentation.pdf) for the swing motors and [CPL-20A-50-2A](https://github.com/TriPed-Robot/Hardware-Specifications/blob/master/Roboter/actuation/swing_motor_gear_documentation.pdf) harmonic drives for the gear conversion.
 These harmonic drives necessitate a motor speed limit of 6500 rpm.
 
 ## Swing Sensor
 The left and right swing senso}, measure the position of the output of the harmonic drive of each swing motor.
 They are implemented using As5047D Hall Sensors as well as magnets attached to the output lever of the Gear (see figure 
-![swing sensor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/swing_sensor.png) 
+![swing sensor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/swing_sensor.png) 
 
 ## Joint Range
 The Jointrange describes not only the available range of movement but also the conventions for a angle of zero,
 While the joints can theoretically swing in 360° degrees they are bounded by not only the closed kinematic chain but also two stoppers at each side of the motor shaft.
 These constraints can be seen in the following graphics
-![swing range](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/save_angles.png) 
+![swing range](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/save_angles.png) 
 It should be noted that the actual robot measures all angles in radians not degrees.
 The progression from orange to blue is meant to visualize the  stability constraints provided by the kinematic chains as the system goes from positive angles (orange) to negative angles (blue).
 Roughly speaking this means that while the system is capable to operate at the full range, the motor shouldn't go into this range since the system tends to become unstable.
@@ -59,14 +59,15 @@ As the name Implies the Extend Joint is responsible for the extension and retrac
 contrary to the swing joint, this joint is virtual, meaning that no phyiscal part corresponds to it.
 Instead it is located at the point around which the curved part of the leg rotates.
 This can be seen in the figure below
-![extend joint](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/TripedOpenChain.png)
+
+![extend joint](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/TripedOpenChain.png)
 
 
 ## Extend Motor
 The extend motor moves the extend joint using a flexible tooth belt attached to the leg. The toothbelt on the curved leg can in this case be viewed as a kind of giant gear attached to extend joint which is moved by the motorshaft afixed to the extend motor.
 This creates a gear reduction of  0.07/(2*pi*1.5).
 This system can be seen in the figure below
-![extend motor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/images/extend_motor.png)
+![extend motor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/extend_motor.png)
 The specific model of the extend motor is a [Flipsky BLDC Belt Motor 6374 190KV 3250W Electric Skateboard Motor](https://github.com/TriPed-Robot/Hardware-Specifications/blob/master/Roboter/actuation/extend_motor_documentation.pdf) capable of applying 8Nm of torque to the leg.
 
 Together with the gear reduction this gives each sub-robot enough torque to temporarily support more than double (80 kg) the weight of the system (30 kg).
