@@ -1,5 +1,5 @@
 ---
-permalink: /legs/
+permalink: /docs/legs/
 title: "One Legged Subrobot"
 layout: single
 excerpt: "Each Leg of the TriPed hase 3 degrees of freedom allowing ..."
