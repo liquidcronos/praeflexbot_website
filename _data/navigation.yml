@@ -15,9 +15,13 @@ main:
 docs:
   - title: -Hardware
     children:
-      - title: "The TriPed Robot"
+      - title: "Robot Overview"
+        url: /docs/robot/
+      - title: "Legs"
         url: /docs/legs/
-      - title: "Kinematics"
+      - title: "Chassis"
+        url: /docs/chassis/
+      - title: "Kinematic Model"
         url: /docs/kinematics/
       - title: "Embedded Architecture"
         url: /docs/embedded/
@@ -26,12 +30,16 @@ docs:
 
   - title: Software
     children:
-      - title: "Matlab Simulation"
-        url: /docs/matlab/
       - title: "Software Architecture"
         url: /docs/software_arch/
-      - title: "Navigation"
-        url: /docs/navigation/
       - title: "Getting started"
         url: /docs/getting_started/
 
+  - title: Matlab Simulation
+	children: 
+      - title: "About"
+        url: /docs/matlab_about/
+      - title: "Getting started"
+        url: /docs/matlab_getting_started/
+      - title: "Tutorials"
+        url: /docs/matlab_tutorials/
