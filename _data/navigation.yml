@@ -10,8 +10,6 @@ main:
     url: /team/
   - title: "Github"
     url: https://github.com/TriPed-Robot
-  - title: "Subrobot"
-    url: /docs/legs/
 
 
 docs:
