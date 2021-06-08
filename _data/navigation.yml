@@ -10,7 +10,28 @@ main:
     url: /team/
   - title: "Github"
     url: https://github.com/TriPed-Robot
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+
+docs:
+  - title: -Hardware
+    children:
+      - title: "The TriPed Robot"
+        url: /docs/robot/
+      - title: "Kinematics"
+        url: /docs/kinematics/
+      - title: "Embedded Architecture"
+        url: /docs/embedded/
+      - title: "Safety Guidelines"
+        url: /docs/safety/
+
+  - title: Software
+    children:
+      - title: "Matlab Simulation"
+        url: /docs/matlab/
+      - title: "Software Architecture"
+        url: /docs/software_arch/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "Getting started"
+        url: /docs/getting_started/
+
