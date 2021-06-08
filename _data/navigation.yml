@@ -36,7 +36,7 @@ docs:
         url: /docs/getting_started/
         
   - title: Matlab Simulation
-	  children: 
+    children: 
       - title: "About"
         url: /docs/matlab_about/
       - title: "Getting started"
