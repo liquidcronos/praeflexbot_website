@@ -2,9 +2,7 @@
 permalink: /Legs/
 title: "One Legged Subrobot"
 layout: single
-excerpt: "Each Leg of the TriPed hase 3 degrees of freedom allowing the control of the legs pitch and roll as well as its length.
-The length of the leg is controlled by the so called extend motor which moves the rounded leg upwards and downwards using a belt.
-The angle is controlled by two motors located on the chassis which move the hip of the robot (called drive module) via two coupling rods."
+excerpt: "Each Leg of the TriPed hase 3 degrees of freedom allowing ..."
 layouts_gallery:
   - url: triped_web_banner.png
     image_path: triped_web_banner.png
