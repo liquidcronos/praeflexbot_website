@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/  
+  - title: "Robot"
+    url: /docs/robot/ 
   - title: "Research"
     url: /research/
   - title: "Theses/Abschlussarbeiten"
