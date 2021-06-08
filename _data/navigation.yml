@@ -16,7 +16,7 @@ docs:
   - title: -Hardware
     children:
       - title: "The TriPed Robot"
-        url: /docs/robot/
+        url: /docs/legs/
       - title: "Kinematics"
         url: /docs/kinematics/
       - title: "Embedded Architecture"
