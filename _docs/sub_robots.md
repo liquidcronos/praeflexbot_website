@@ -22,7 +22,7 @@ It shows all joints in turquoise, as well as all the motors and sensors, picture
 Note that the motors and force sensors on the right hand sight are normally connected to the chassis.
 ![chassis layers](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_leg_ros.png)
 The next sections will go into more detail about how the robot is actuated.
-A full overview of the kinematics of each joint can be found in [Triped Kinematics](https://github.com/TriPed-Robot/Wiki/wiki/Kinematics).
+A full overview of the kinematics of each joint can be found in [Triped Kinematics](https://triped-robot.github.io/docs/kinematics/).
 
 # Swing Joints
 
@@ -32,7 +32,7 @@ Where left and right is determined when standing in front of the leg and looking
 ## Swing Motor
 The two smaller Motors are called swing motors.
 
-In the full system the swing motors are affixed to the chassis and control the angle of the system using a closed chain for more information see  [TriPed Kinematics](https://github.com/TriPed-Robot/Wiki/wiki/Kinematics)).
+In the full system the swing motors are affixed to the chassis and control the angle of the system using a closed chain for more information see  [TriPed Kinematics](https://triped-robot.github.io/docs/kinematics/)).
 Since the motors need to supply a lot of torque to the system a harmonic gear with a gear reduction of 1:50  is used to actuate the mechanism.
 This gearbox results in low coupling between the forces of both motors.
 The full system can be seen in the figure below
@@ -53,7 +53,7 @@ These constraints can be seen in the following graphics
 It should be noted that the actual robot measures all angles in radians not degrees.
 The progression from orange to blue is meant to visualize the  stability constraints provided by the kinematic chains as the system goes from positive angles (orange) to negative angles (blue).
 Roughly speaking this means that while the system is capable to operate at the full range, the motor shouldn't go into this range since the system tends to become unstable.
-This is however only a simplification as the system can also become unstable in different konfigurations based on the state of the other motor. This is discussed in [Triped Kinematics](https://github.com/TriPed-Robot/Wiki/wiki/Kinematics).
+This is however only a simplification as the system can also become unstable in different konfigurations based on the state of the other motor. This is discussed in [Triped Kinematics](https://triped-robot.github.io/docs/kinematics/).
 
 
 # Extend Joint
