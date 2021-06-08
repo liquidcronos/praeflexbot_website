@@ -67,9 +67,10 @@ This can be seen in the figure below
 
 ## Extend Motor
 The extend motor moves the extend joint using a flexible tooth belt attached to the leg. The toothbelt on the curved leg can in this case be viewed as a kind of giant gear attached to extend joint which is moved by the motorshaft afixed to the extend motor.
-This creates a gear reduction of  0.07/(2*pi*1.5).
+This creates a gear reduction of  0.07/(2*pi*1.5). 
 This system can be seen in the figure below
 ![extend motor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/extend_motor.png)
+Note that this means that the motor turns in the opposite direction of the leg!
 The specific model of the extend motor is a [Flipsky BLDC Belt Motor 6374 190KV 3250W Electric Skateboard Motor](https://github.com/TriPed-Robot/Hardware-Specifications/blob/master/Roboter/actuation/extend_motor_documentation.pdf) capable of applying 8Nm of torque to the leg.
 
 Together with the gear reduction this gives each sub-robot enough torque to temporarily support more than double (80 kg) the weight of the system (30 kg).
@@ -77,5 +78,15 @@ The tension of the belt can be adjusted using the pretension roll pictured in th
 Since each sub-robot has it's own extend motor, a given extend motor is called *extend motor of the i-th leg* where *i* denotes the leg number.
 
 ## Extend Sensor
+The extend sensor measures the position of the extend motor using a [Omron E6A2-CW5C 500 P/R Rotary Encoder](https://github.com/TriPed-Robot/Hardware-Specifications/blob/master/Roboter/sensing/extend_sensor_documentation.pdf).
+Therefore the gear reduction of 0.07/(2*pi*1.5) has to be applied to get the correct angle.
+Since this rotary encoder measures only relative position, the system includes a photo sensor, that measures the position of a splint inside the leg linear part.
+This enables the conversion from a relative position to an absolute position. 
+The full setup can be seen in the figure below:
+![extend sensor](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/extend_sensor.png)
+The Splint that triggers the Photo sensor can be inserted in multiple possible positions along the leg.
+Its default position is indicated in the figure below and corresponds to a extend joint angle of pi/10.
+![splint](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/splint.png)
 
 ## Joint Range
+The range of the Joint defines zero as the position in which the leg is fully retracted, while the value of the fully extended leg is 0.489 rad.
