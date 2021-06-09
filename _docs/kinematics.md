@@ -56,12 +56,15 @@ Traditional kinematics such as discussed in the [tutorial](http://motion.cs.illi
 For a closed chain on has to additionally enforce that all paths (in this case three) converge on the same frame.
 This is done via the so called closure equation.
 
+For more details about how a closure equation is formulated and used to solve the kinematics of a root see the [kinematic tutorial](https://github.com/TriPed-Robot/TriP)
 ### Dealing with multiple solutions
 
 The solution of the closure equation is not unambiguous as can be seen down below.
 ![multiple solutions](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_2_bar_sec.png)
 To prevent the system from jumping between solution, one can either give the solver the last computed joint state as a initial guess or penalize solutions that have the motor pointing  inward since these are intrinsically more unstable (see [Legs](https://triped-robot.github.io/docs/legs/) for more details).
-To prevent 
+
+
+ 
 
 
 
