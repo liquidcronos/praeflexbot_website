@@ -22,6 +22,9 @@ To install it download the flashing image [here](https://debian.beagleboard.org/
 The image has then be installed on a sd and subsequently installed on the BBB.
 A good tutorial can be found [here](http://derekmolloy.ie/write-a-new-image-to-the-beaglebone-black/).
 
+
+## Patching the Kernel with Xenomai
+
 ## Mounting the SD card
 After installing the operating system, the SD card can be flashed with the internal TriPed image that has all necessairy ros-packages pre installed.
 
@@ -57,7 +60,6 @@ In order to immediately acces the ROS commands upon connecting via ssh and commu
 source /sd/triped_app/catkin_ws/devel/setup.bash
 export ROS_IP=BEAGLEBONE_IP
 export ROS_MASTER_URI=http://BEAGLEBONE_NAME:11311
-
 ```
 where `BEAGLEBONE_IP` and `BEAGLEBONE_NAME` are the Beaglebones network IP and name respectively.
 
