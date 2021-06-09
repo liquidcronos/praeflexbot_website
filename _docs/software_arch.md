@@ -42,3 +42,13 @@ the communications.
 There are many popular message-passing solutions, however, for robotic
 applications the most common solution is ROS which is quickly be-
 coming an industry standard.
+
+## ROS
+
+ROS abstracts the communication between independent processes, called nodes, by employing its own
+message passing interface.
+Like many other message-passing interfaces it can communicate not only
+between processes on the same machine but also between computers.
+This means that students and researchers can use wifi to remotely view
+sensor data and log it for later debugging.
+More information about ROS can be found [here](http://wiki.ros.org/).
