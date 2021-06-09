@@ -22,6 +22,7 @@ An overview of the chassis and the names of each layer can be seen below
 
 
 The first layer houses the [control pc](https://triped-robot.github.io/docs/embedded/) of the system, powered by a power converter and secured using a fuse box.
+
 The Top Layer also features two round RGB status LED which communicate the state of the System.
 Additionally,  a deadman switch  is accesible which is connected via a 3 meter long cable and  is capable of instantly shutting of power to the motor controllers.
 

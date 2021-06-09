@@ -25,8 +25,11 @@ A schematic of this high level architecture can be seen below
 # Leg Level Architecture
 Each Leg needs to be able to connect four devices via CAN Bus and SPI respectively.
 Additionally the Extend Sensor requires many system interrupts per second putting stress on the control pc.
+
 The System uses a Beaglebone Black to connect all these Devices, however although it has a dedicated chip for dealing with rotary encoders,
-the Extend Sensor is abstracted using a additional Arduino. This is done to be easily able to transition to a more powerful control pc should the need arise.
+the Extend Sensor is abstracted using a additional Arduino. 
+
+This is done to be easily able to transition to a more powerful control pc should the need arise.
 A wiring diagram of all connections can be seen down below
 ![abstract wiring scheme](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/beagle-bone_triped_cape.svg)
 
