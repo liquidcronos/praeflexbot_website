@@ -53,10 +53,10 @@ A blue frame represents a base frame and a orange frame a follower frame.
 Aranging all connected transformations into a graph as seen below, one can identify the closed kinematic chain of the robot between the ccs frame and the p frame.
 Traditional kinematics such as discussed in the [tutorial](http://motion.cs.illinois.edu/RoboticSystems/Kinematics.html) however deal only with the computation of open chains between the two frames.
 
-For a closed chain on has to additionally enforce that all paths (in this case three) converge on the same frame.
+For a closed chain with unactuated joints on has to additionally enforce that all paths (in this case three) converge on the same frame.
 This is done via the so called closure equation.
 
-For more details about how a closure equation is formulated and used to solve the kinematics of a root see the [kinematic tutorial](https://github.com/TriPed-Robot/TriP)
+For more details about how a closure equation is formulated and used to solve the kinematics of a root see the [triped kinematics tutorial](https://github.com/TriPed-Robot/TriP)
 ### Dealing with multiple solutions
 
 The solution of the closure equation is not unambiguous as can be seen down below.
