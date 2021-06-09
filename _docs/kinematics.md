@@ -50,5 +50,21 @@ A blue frame represents a base frame and a orange frame a follower frame.
 
 ## Closure Equation
 
+Aranging all connected transformations into a graph as seen below, one can identify the closed kinematic chain of the robot between the ccs frame and the p frame.
+Traditional kinematics such as discussed in the [tutorial](http://motion.cs.illinois.edu/RoboticSystems/Kinematics.html) however deal only with the computation of open chains between the two frames.
+
+For a closed chain on has to additionally enforce that all paths (in this case three) converge on the same frame.
+This is done via the so called closure equation.
+
+### Dealing with multiple solutions
+
+The solution of the closure equation is not unambiguous as can be seen down below.
+![multiple solutions](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_2_bar_sec.png)
+To prevent the system from jumping between solution, one can either give the solver the last computed joint state as a initial guess or penalize solutions that have the motor pointing  inward since these are intrinsically more unstable (see [Legs](https://triped-robot.github.io/docs/legs/) for more details).
+To prevent 
+
+
+
+
 
 
