@@ -12,6 +12,7 @@ toc: true
 
 This section offers a short overview of the kinematics as well as important coordinate systems of the TriPed.\\
 It assumes that one is already familiar with robotic kinematics and the general terminology. If this is not the case, [this page](http://motion.cs.illinois.edu/RoboticSystems/Kinematics.html) offers a short tutorial.
+A full specification of the TriPeds transformations can be downloaded below.
 
 ## Kinematic Structure of a Leg
 Each leg is a so called hybrid chain whose kinematic structure is pictured below.
@@ -46,6 +47,9 @@ Meanwhile the transformations of joints adopt the following conventions:
 The resulting frames and their naming conventions can be seen down below.
 A blue frame represents a base frame and a orange frame a follower frame.
 ![triped_joints](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/coord_systems_bottom.png)
+
+The full specifications of all Transformations can be found by clicking on the image below:
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/download_model.png)](https://github.com/TriPed-Robot/TriPed-Robot.github.io/raw/master/files/kinematics/transformation.pdf)
 
 
 ## Closure Equation
