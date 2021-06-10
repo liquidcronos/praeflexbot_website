@@ -7,7 +7,7 @@ layouts_gallery:
   - url: triped_web_banner.png
     image_path: triped_web_banner.png
     alt: "triped web banner"
-toc: true
+toc: false
 ---
 
 ![trip logo](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/TriP.png)
