@@ -31,8 +31,8 @@ docs:
     children:
       - title: "Software Architecture"
         url: /docs/software_arch/
-      - title: "Getting started"
-        url: /docs/getting_started/
+      - title: "TriP Hybrid Kinematics library"
+        url: /docs/trip/
         
   - title: Matlab Simulation
     children: 

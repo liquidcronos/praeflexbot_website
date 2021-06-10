@@ -38,7 +38,7 @@ This manager has the activate and deactivate nodes according to the needs and sa
 The architecture of each leg decomposes the full control loop of the system into multiple independend nodes under considerations of possible parallelism and communication overhead.
 In short, the system should make use of as much parallelism as possible while keeping the communication overhead as small as possible.
 
-ince a huge network of independent nodes obfuscates the true
+Since a huge network of independent nodes obfuscates the true
 control structure these nodes are grouped into packages according to the loop
 from which they hail. This leads to a layered architecture of Node
 Groups:
