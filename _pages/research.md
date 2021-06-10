@@ -10,41 +10,58 @@ layouts_gallery:
 toc: true
 ---
 
+Traditional assistive devices model the human as some kind of operator whose commands should be followed.
+However, these approaches don't work for more assistive devices where both device and operator have to rely on one another.
+Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine.\\
 
-## Ultimate Research Aim
-<p>It is known that the rehabilitation phase after an operation is as important as the operation itself.<br>
-In the case of major abdominal operations or longer periods of bed rest, the patient often has to learn to walk again.
-As a consequence, patients are still dependent on crutches for weeks after the operation.<br>
- However, some patients might not be able to use them due to cognitive or arm impairments, and even if, these severely restrict their everyday life, 
- as the crutches prevent them from using their hands for other purposes.</p>
+But Humans tend to cooperate differently than machines do.
+While machines cooperate by exchanging plans and information at incredible speeds, humans tend to infer and coordinate using subtle cues from their partners often without needing to directly exchange information.
 
-<p> The ultimate aim of this project is to develop autonomous crutches that lift those restrictions and help the patients regain a normal life.
-The device should also be able to be used as a rehabilitation device that trains the patient on how to walk again. </p>
-![research aim](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/research_aim.png)
+The goal of this project is to close this gap by enabling machines to cooperate as humans do.
 
-## But why a Robot?
-<p>
-Traditional assistive devices model the human as some kind of operator whose commands should be followed <br>
-This approach doesn't work for automatic crutches, consider for example the cases of walking and stumbling. The machine should allow and facilitate the first kind of movement but prohibit the second type.
-Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine. </p> 
+This in turn would aid human-machine cooperation, because the human can then naturally interact with the machine.
 
-<p> Which is why we need to understand cooperation between different agents first before we can develop autonomous crutches. <br>
-This is where the TriPed comes in. The Robotic platform allows us to study the principles of cooperative walking by dividing the System into three autonomous "Players".
-Among our interests are not only what kind of sensory information each player needs to cooperate with the other ones but most importantly how they can coordinate themself to cooperate efficiently without directly exchanging data. 
-</p>
-![triped robot](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped_game.png)
 
 ## Modelling Cooperation
-We Aim to model the cooperation of Human and Machine using a simplified interaction model which abstracts each player to a set of forces and constraints he can impart on the system <br>
-Using Gametheoretic Approaches borrowed from game theory, particularly <a href="https://en.wikipedia.org/wiki/Behavioral_game_theory"> behavioral game theory</a> we intend to model not only the interplay of each agent but also a process called "signaling" in which agents communicate their intention to one another through their strategic play. 
+In the case of the TriPed each Leg can be viewed as a separate subsystem with only limited information about the other systems.
+![triped robot](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/triped_game.png)
+
+The questions the TriPed should help answer are:
+- How can multiple systems cooperate without directly communicating?
+- What type of information can be inferred from the behavior of the other systems?
+- What kind of sensor information is needed for both?
+
+The cooperation is modeled  using a simplified interaction model which abstracts each player to a set of forces and constraints he can impart on the system <br>
+Using Gametheoretic Approaches borrowed from game theory, particularly <a href="https://en.wikipedia.org/wiki/Behavioral_game_theory"> behavioral game theory</a>.
+These approaches cannot only model the interplay of each agent but also a process called "signaling" in which agents communicate their intention to one another through their strategic play. 
+
+## Supernumerary Limbs
+These findings should eventually be used to help build new kinds of assistive devices.
+Traditional assistive devices model the human as some kind of operator whose commands should be followed.
+
+This approach doesn't work for automatic crutches, consider for example the cases of walking and stumbling. The machine should allow and facilitate the first kind of movement but prohibit the second type.
+Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine.\\
+
+It is known that the rehabilitation phase after an operation is as important as the
+operation itself.
+In the case of major abdominal operations or longer periods of bed rest, the patient often has to learn to walk again.
+Since the use of crutches inhibits the use of a patient’s hands, if they can use
+them at all, supernumerary limbs exosuits should provide automatic crutches that walk without human command.\\
+\\
+The TriPed Plattform can emulate such a configuration by considering two of its legs as crutches controlled by its controller, while the third leg imitates a single human leg.
+The assumption here is, that the human isn't able to use his third leg because of some injury.
+
+A sample rendering of such a system can be seen down below
+![triped robot](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/research_aim.png)
 
 
-## Walking Robot Control
+
+## Control of Hybrid Chains
 Even with a central agent controlling everything, the control of walking robots is a hard task. 
 For this reason, we are also interested in the general control of walking robots.
-Our particular area of focus is the control of so-called closed kinematic chains which are configurations where multiple actuators influence the same endpoint.
-This is not only because the TriPed itself can be thought of as a closed kinematic but also because each sub-robot uses a closed kinematic chain to swing its leg.
-![level mechanism](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/Hebel_1.PNG)
+Our particular area of focus is the control of so-called hybrid kinematic chains which are mechanism with both closed kinematic chains and open kinematic chains.
+In the case of the TriPed each sub-robot is a hybrid chain.
+![level mechanism](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/hybrid_chain.png)
 
 ---
 
