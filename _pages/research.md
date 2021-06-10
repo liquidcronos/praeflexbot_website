@@ -12,7 +12,7 @@ toc: true
 
 Traditional assistive devices model the human as some kind of operator whose commands should be followed.
 However, these approaches don't work for more assistive devices where both device and operator have to rely on one another.
-Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine.\\
+Thus the human can no longer be thought of as an operator but as an equal player cooperating with the machine.
 
 But Humans tend to cooperate differently than machines do.
 While machines cooperate by exchanging plans and information at incredible speeds, humans tend to infer and coordinate using subtle cues from their partners often without needing to directly exchange information.
