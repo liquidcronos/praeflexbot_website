@@ -1,6 +1,5 @@
 ---
 permalink: /docs/trip/
-title: "Getting Started"
 layout: single
 
 collection: docs
