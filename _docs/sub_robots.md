@@ -15,6 +15,8 @@ toc: true
 Each Leg of the TriPed hase 3 degrees of freedom allowing the control of the legs pitch and roll as well as its length.
 The length of the leg is controlled by the so called extend motor which moves the rounded leg upwards and downwards using a belt.
 The angle is controlled by two motors located on the chassis which move the hip of the robot (called drive module) via two coupling rods.
+This is further explained in [Triped Kinematics](https://triped-robot.github.io/docs/kinematics/).
+
 
 
 
@@ -22,8 +24,7 @@ The full structure of the legs can be seen in the figure below.
 It shows all joints in turquoise, as well as all the motors and sensors, pictured in orange and green respectively.
 Note that the motors and force sensors on the right hand sight are normally connected to the chassis.
 ![chassis layers](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_leg_ros.png)
-A GIF of the legs movement can be seen below:
-![triped leg movement](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped-leg-movement.gif)
+
 
 The next sections will go into more detail about how the robot is actuated.
 A full overview of the kinematics of each joint can be found in [Triped Kinematics](https://triped-robot.github.io/docs/kinematics/).
