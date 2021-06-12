@@ -55,12 +55,13 @@ These offer ROS topics with the same naming scheme as the real [joint level cont
 
 ## Simplified Model
 ![simplified model](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/simplified_triped_sim.PNG)
+
 While accurate, the full model has two distinct disadvantages:
 - It is "slow" when actuated with a kinematic model
 - Its hybrid chain makes it unusable for most robotic toolboxes 
 
 The first disadvantage makes it difficult to perform fast walking experiments, which is especially detrimental when trying to train a reinforcement learning model.
-The second disadvantage makes it harder for students to apply the tools they learned since kinematic calculations are seldomly taught in robotics courses.
+The second disadvantage makes it harder for students to apply the tools they learned since hybrid chains kinematic calculations are seldomly taught in robotics courses or included in robotics tools.
 
 For this reason, two simplified models are provided.
 Instead of actuating the swing motors, that inevitably control the position of the gimbal joint (For reference see [Kinematic Model](https://triped-robot.github.io/docs/kinematics/)), both directly actuate the gimbal joint.\\
