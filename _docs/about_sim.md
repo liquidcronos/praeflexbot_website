@@ -54,6 +54,7 @@ These offer ROS topics with the same naming scheme as the real [joint level cont
 
 
 ## Simplified Model
+![simplified model](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/simplified_triped_sim.PNG)
 While accurate, the full model has two distinct disadvantages:
 - It is "slow" when actuated with a kinematic model
 - Its hybrid chain makes it unusable for most robotic toolboxes 
@@ -80,7 +81,7 @@ The environment directory deals with the simulation of environments the TriPed c
 For this purpose, a [variant subsystem](https://de.mathworks.com/help/simulink/slref/variant-subsystems.html) block was provided witch allows the TriPed to either walk around in the world or be fixed in place for debugging purposes.
 
 Additionally, different ground configurations are provided which aim to simulate different walking surfaces for the robot.
-[contact force](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/foot_contact.png)
+![contact force](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/foot_contact.png)
 
 ### Ground Contact Modeling
 Ground contact can be decomposed into two components:
@@ -97,13 +98,13 @@ For this reason, all grounds have the same stiffness and dampening to approximat
 
 For the tangential force, coulomb friction with stiction is used. These offer two coefficients of friction.
 A table of different friction coefficients based on the material of the ground and the foot can be seen below.
-[contact force](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/friction-coefficient-table.png)
+![friction table](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/friction-coefficient-table.png)
 
 
 ## Kinematic Utils
 
 The kinematic utilis directory contains basic kinematic models for the system to be able to directly specify the foot position in task space.
 Additionally, the utilities provide a full-body kinematic block, which allows not only the specification of foot positions but also the roll, pitch, and yaw of the TriPed chassis as shown in the figure below:
-[roll pitch yaw](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/roll_pitch_yaw.PNG)
+![roll pitch yaw](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/roll_pitch_yaw.PNG)
 
 
