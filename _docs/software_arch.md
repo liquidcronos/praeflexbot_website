@@ -65,19 +65,19 @@ This means the System is responsible for computing the forward and inverse kinem
 Additionally, the leg level control layer deals with the initialization of
 the robot in conjunction with the event manager.
 
-The package can be found here [here](https://github.com/TriPed-Robot/leg_level_control)
+The package can be found here [here](https://github.com/TriPed-Robot/leg_level_control) (currently only visible for project members)
 
 ## Kinematic Gait Generator
 
 The Kinematic Gait Generator is the highest level Controller of each sub-robot.
 It is responsible for deciding when and how each leg makes a step, and what it does in between steps.
 
-The package can be found here [here](https://github.com/TriPed-Robot/kinematik_gait_generator)
+The package can be found here [here](https://github.com/TriPed-Robot/kinematik_gait_generator) (currently only visible for project members)
 
 ## Signaling Game
 
 The signaling Game layer implements the game theory based controller responsible for coordinating the legs and infer the intention of the other sub-robots.
 
-The package can be found here [here](https://github.com/TriPed-Robot/signaling_game)
+The package can be found here [here](https://github.com/TriPed-Robot/signaling_game)  (currently only visible for project members)
 
 

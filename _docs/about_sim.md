@@ -11,6 +11,8 @@ layouts_gallery:
 toc: true
 ---
 
+![parts hierachy](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_walking.gif)
+
 
 The Matlab simulation offers a full library of all assembly pieces of the TriPed.
 Its goal is to aid in the design of walking experiments for the robot but also to help teach people about robotics and robotics simulation.
