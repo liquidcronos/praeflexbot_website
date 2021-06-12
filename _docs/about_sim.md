@@ -109,5 +109,5 @@ A table of different friction coefficients based on the material of the ground a
 The kinematic utilis directory contains basic kinematic models for the system to be able to directly specify the foot position in task space.
 Additionally, the utilities provide a full-body kinematic block, which allows not only the specification of foot positions but also the roll, pitch, and yaw of the TriPed chassis as shown in the figure below:
 ![roll pitch yaw](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/roll_pitch_yaw.PNG)
-
+It should be noted that the kinematic calulations and model are rather basic, a much faster and more precise solution is included in the [TriP kinematic libray](https://triped-robot.github.io/docs/trip/).
 
