@@ -44,5 +44,4 @@ docs:
         url: /docs/matlab_about/
       - title: "Getting started"
         url: /docs/matlab_getting_started/
-      - title: "Tutorials"
-        url: /docs/matlab_tutorials/
+
