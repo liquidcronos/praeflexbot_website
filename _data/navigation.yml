@@ -25,7 +25,11 @@ docs:
         url: /docs/kinematics/
       - title: "Embedded Architecture"
         url: /docs/embedded/
-
+ - title: Walking
+  children:
+    - title "Overview"
+      url: /docs/walking
+      
 
   - title: Software
     children:
