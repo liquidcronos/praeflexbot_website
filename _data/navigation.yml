@@ -25,7 +25,11 @@ docs:
         url: /docs/kinematics/
       - title: "Embedded Architecture"
         url: /docs/embedded/
-
+ - title: Walking
+  children:
+    - title "Overview"
+      url: /docs/walking
+      
 
   - title: Software
     children:
@@ -40,5 +44,4 @@ docs:
         url: /docs/matlab_about/
       - title: "Getting started"
         url: /docs/matlab_getting_started/
-      - title: "Tutorials"
-        url: /docs/matlab_tutorials/
+
