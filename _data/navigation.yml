@@ -27,7 +27,7 @@ docs:
         url: /docs/embedded/
  - title: Walking
   children:
-    - title "Overview"
+    - title: "Overview"
       url: /docs/walking
       
 
