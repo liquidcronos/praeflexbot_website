@@ -52,7 +52,7 @@ The examples directory contains several examples to familiarise oneself with the
 
 
 ### Moving the Chassis
-![walking example](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/walking_example.png)
+![walking example](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/walking_example.gif)
 This example demonstrates whole-body kinematics, meaning the ability to control the orientation of the body given positions of the leg.
 To use the example open `joy_stick_orientation.slx` and connect a gamepad (such as an XBox controller).
 If you play the Simulink model you will be able to move the TriPeds chassis with your joystick causing the robot to 'look around'.
@@ -60,7 +60,7 @@ Alternatively, if you don't have a joystick you can connect any signal to the ro
 
 
 ### Moving the TriPed
-![orientation example](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/orientation_example.png)
+![orientation example](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/orientation_example.gif)
 This example demonstrates how the TriPed can walk. Using the left joystick of a connected gamepad it is possible to steer the TriPed around the simulation area.
 Alternatively, if you don't have a joystick you can directly specify a two-dimensional command velocity to the gait generator.
 The example can be started by opening and playing  `joy_stick_walking.slx`.
