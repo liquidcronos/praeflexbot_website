@@ -46,7 +46,7 @@ There are a large number of additional gaits including but not limited to:
 However, these have only been investigated theoretically and so far not been tested on the TriPed
 
 The gait pattern graph for each gaut can be seen down below:
-![gait patterns](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/gait_patterns)
+![gait patterns](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/gait_patterns.png)
 
 
 
