@@ -29,7 +29,7 @@ docs:
  - title: Walking
    children:
      - title: "Overview"
-       url: /docs/walking
+       url: /docs/walking/
       
 
   - title: Software
