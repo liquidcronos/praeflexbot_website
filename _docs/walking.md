@@ -24,6 +24,8 @@ Thus a few gaits can be devised inspired by nature.
 ## Rabbit Hopping Gait
 
 Although a rabbit posses four legs during hopping its two front legs act like a single leg.
+This gait is quite fast and alows the robot to move forward and turn at the same time.
+This means it is able to follow a given linear velocity and angular velocity.
 The stance pattern of this gait can be seen below:
 ![rabbit gait](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/rabbit_gait.gif)
 
@@ -32,18 +34,22 @@ The stance pattern of this gait can be seen below:
 This is the most stable gait of the TriPed since only one foot moves at a time.
 It is inspired by the cyclical way in which spiders move the leg on each side of their body.
 In the case of the TriPed all legs walk in a clockwise fashion.
+While slower than the rabbit gait, it allows the system to move in any direction without turning.
 It can be seen down below:
 ![spider walking gait](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_walking.gif)
 
 There is also an interactive demo which can be found [here](https://triped-robot.github.io/docs/matlab_getting_started/)
 
 ## Other Gaits
-There are a large number of additional gaits including but not limited to:
+There are a large number of additional walking gaits including but not limited to:
 - Dog-style cruising gait
 - Kangaroo-style hopping gait
 
 
-However, these have only been investigated theoretically and so far not been tested on the TriPed
+On top of which there are severall running gaits.
+However, all these have only been investigated theoretically and so far not been tested on the TriPed.
+Indeed it is likely that the kangaroo-style gait would not work due to the tripeds limited task space.
+
 
 The gait pattern graph for each gaut can be seen down below:
 ![gait patterns](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/gait_patterns.png)
