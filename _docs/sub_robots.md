@@ -95,3 +95,14 @@ Its default position is indicated in the figure below and corresponds to a exten
 
 ## Joint Range
 The range of the Joint defines zero as the position in which the leg is fully retracted, while the value of the fully extended leg is 0.489 rad.
+
+# IMU
+
+The TriPed uses a BMA280 Digital, triaxial acceleration sensor to calibrate the motors on startup by providing a known leg orientation and thereby motor position.
+# Force Sensors
+The 6 Degree of Freedom force sensor are connected to the bridge on which the leg assembly is mounted. This enables the system to measure the load on each sub-robot.\\
+It should be noted that these sensors are currently not built into the system.
+This is because optimal working point for the sensors still has to be determined. If it is chosen to low the strain gauges inside the sensors, which are extremely delicate, could snap during an unforeseen movement. If it is chosen too high, the sensors would not be able to produce high-resolution data.\\
+For this reason, it was decided to only integrate them once a dynamic model of the legs is found from which an operating point can be specified.
+In the meantime, the bridge is connected to the chassis using aluminum blocks of the same size.
+
