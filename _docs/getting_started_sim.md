@@ -63,7 +63,17 @@ Alternatively, if you don't have a joystick you can connect any signal to the ro
 ### Moving the TriPed
 div style="text-align:center"><img src="https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/orienation_example.gif" /></div>
 
-This example demonstrates how the TriPed can walk. Using the left joystick of a connected gamepad it is possible to steer the TriPed around the simulation area.
+This example demonstrates how the TriPed can walk.
+
+This is done via a simple implementation of a three legged spider gait described [here](https://triped-robot.github.io/docs/walking).
+This simple implementation uses only a state machine and is not capable of the dynamic balancing normaly required during operations.
+
+The full gait generator with dynamic balancing can be seen [here](https://github.com/TriPed-Robot/kinematik_gait_generator). 
+However currently it is only accesible to members of the project.
+
+In order to still guarantee stability the movement speed of the robot was bounded aggressively.
+
+Using the left joystick of a connected gamepad is thus still possible to steer the TriPed around the simulation area.
 Alternatively, if you don't have a joystick you can directly specify a two-dimensional command velocity to the gait generator.
 The example can be started by opening and playing  `joy_stick_walking.slx`.
 

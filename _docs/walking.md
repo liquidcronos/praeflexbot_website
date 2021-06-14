@@ -1,0 +1,61 @@
+---
+permalink: /docs/walking/
+title: "Walking on three legs"
+layout: single
+
+collection: docs
+layouts_gallery:
+  - url: triped_web_banner.png
+    image_path: triped_web_banner.png
+    alt: "triped web banner"
+toc: true
+---
+
+Since the TriPed is one of the view three-legged robots around, the question arises:
+
+How can a three-legged robot even walk?
+
+
+While there are no three-legged animals in nature, many animals use a Tripedal gait.
+Thus a few gaits can be devised inspired by nature.
+
+## Stance Patterns
+Each gate is defined by a stance pattern, meaning a description of which leg is on the ground at a given time.
+It can be seen down below:
+![stance patterns](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/stance_patterns.png)
+
+## Weight Redistribution
+Apart from the multitude of possible stance patterns, it is also important to consider what each leg does while it is on the ground.
+To be able to even lift a leg, the system needs a mechanism to redistribute weight to the other leg.\\
+This can be done in one of two ways:
+- changing the orientation of the chassis
+- changing the position of the chassis relative to the legs.
+
+Most legged robots use the first approach since the design of their legs makes a free horizontal movement of the body difficult.
+Due to the round design of the TriPed however, it can also employ the second strategy.
+This is done for example in the spider gait, where the chassis moves in a circle.
+
+## Rabbit Hopping Gait
+
+Although a rabbit posses four legs during hopping its two front legs act like a single leg.
+The stance pattern of this gait can be seen below:
+![rabbit gait](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/rabbit_gait)
+
+
+## Spider Walking Gait
+This is the most stable gait of the TriPed since only one foot moves at a time.
+It is inspired by the cyclical way in which spiders move the leg on each side of their body.
+In the case of the TriPed all legs walk in a clockwise fashion.
+It can be seen down below:
+![spider walking gait](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_walking.gif)
+
+There is also an interactive demo which can be found [here](https://triped-robot.github.io/docs/matlab_getting_started/)
+
+## Other Gaits
+There are a large number of additional gaits including:
+- Dog-style cruising gait
+- Kangaroo-style hopping gait
+- Dog-style running gait
+- Spider cruising gait
+
+However, these have only been investigated theoretically and so far not been tested on the TriPed
