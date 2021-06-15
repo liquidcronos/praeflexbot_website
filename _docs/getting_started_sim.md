@@ -52,7 +52,7 @@ The examples directory contains several examples to familiarise oneself with the
 
 
 ### Moving the Chassis
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/walking_example.gif" /></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/orienation_example.gif" /></div>
 
 This example demonstrates whole-body kinematics, meaning the ability to control the orientation of the body given positions of the leg.
 To use the example open `joy_stick_orientation.slx` and connect a gamepad (such as an XBox controller).
@@ -61,7 +61,8 @@ Alternatively, if you don't have a joystick you can connect any signal to the ro
 
 
 ### Moving the TriPed
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/orienation_example.gif" /></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/walking_example.gif" /></div>
+
 
 This example demonstrates how the TriPed can walk.
 
