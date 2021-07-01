@@ -26,9 +26,9 @@ The following is a list of open current and completed thesis at this lab.
         <td>Studies/ Studiengang</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Learning Kinematic Mappings using Neural Networks</td>
+        <td> Bachelor Thesis</td>
+        <td> Inf, Math, Phys</td>
         <td></td>
     </tr>
 </table>
