@@ -17,8 +17,8 @@ toc: true
 The Matlab simulation offers a full library of all assembly pieces of the TriPed.
 Its goal is to aid in the design of walking experiments for the robot but also to help teach people about robotics and robotics simulation.
 
-For this purpose, the simulation is made completely open-source to allow robotics enthusiasts to play around with a real robot simulation.
-It also comes with a variety of demonstrations and tutorials to help people understand how to program and develop a real robot.
+For this purpose, the simulation is completely open-source to allow robotics enthusiasts to play around with it.
+It also comes with several demonstrations and tutorials to help people understand how to program and develop a real robot.
 
 You can download the simulation by clicking on the image below:
 
@@ -32,12 +32,13 @@ the library is divided into four 4 directories called **Full Model**, **Simplifi
 
 
 ## Full Model
-This directory contains the simulation parts of the actual TriPed, these parts form a hierarchy with ever more complicated pieces.
+This directory contains the assembly pieces of the TriPed.
+These form a hierarchy with ever more complicated pieces.
 This hierarchy is pictured down below:
 
 ![parts hierachy](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/sim_full_parts.png)
 
-These can then be used to construct the fill model of the TriPed which is also contained in the simulation.
+These can then be used to construct the full model of the TriPed which is also contained in the simulation.
 The TriPed is in this case made up of three [legs](https://triped-robot.github.io/docs/legs/) and a central [chassis](https://triped-robot.github.io/docs/chassis/).
 
 Each leg can be further subdivided according to its [kinematic subchains](https://triped-robot.github.io/docs/kinematics/).
@@ -71,7 +72,7 @@ This eliminates the closed chain from each leg.
 Additionally one of the two models allows direct setting of foot position by already using a forward and inverse kinematic model.
 
 To keep the range of motion between this simplified simulation and the full model, the range of motion of the gimbal joint must be constrained.
-The pitch and yaw is constrained to  +-0.523599 rad as this is the effective working space of the full model (while the full model can move further the mechanism becomes unstable).
+The pitch and yaw are constrained to  +-0.523599 rad as this is the effective working space of the full model (while the full model can move further the mechanism becomes unstable).
 Accordingly, a maximum angular velocity and acceleration were calculated from the maximum velocity of the swing joints.
 
 However, the role of the joint is normally determined by the pitch and yaw through the closed chain.
@@ -106,8 +107,8 @@ A table of different friction coefficients based on the material of the ground a
 
 ## Kinematic Utils
 
-The kinematic utilis directory contains basic kinematic models for the system to be able to directly specify the foot position in task space.
+The kinematic utils directory contains basic kinematic models for the system to be able to directly specify the foot position in task space.
 Additionally, the utilities provide a full-body kinematic block, which allows not only the specification of foot positions but also the roll, pitch, and yaw of the TriPed chassis as shown in the figure below:
 ![roll pitch yaw](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/roll_pitch_yaw.PNG)
-It should be noted that the kinematic calulations and model are rather basic, a much faster and more precise solution is included in the [TriP kinematic libray](https://triped-robot.github.io/docs/trip/).
+It should be noted that the kinematic calculations and model are rather basic, a much faster and more precise solution is included in the [TriP kinematic libray](https://triped-robot.github.io/docs/trip/).
 
