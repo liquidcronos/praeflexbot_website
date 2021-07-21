@@ -14,7 +14,7 @@ Project Lead and coordinator of the TriPed Project <br>
 Website:  <a href="https://liquidcronos.github.io/"> liquidcronos.github.io</a> <br>
 Office: INF 468 4 OG. Room 410 <br>
 Tel:  06221 - 54 16343 <br>
-Email: liquidcronos@gmail.com <br>  
+Email: jan.baumgaertner@ziti.uni-heidelberg.de <br>  
 
 
 
