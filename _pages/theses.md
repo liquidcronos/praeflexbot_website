@@ -65,18 +65,7 @@ The following is a list of open current and completed thesis at this lab.
         <td>B.Sc.</td>
         <td>Inf</td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>student</td>
-        <td>Thesis Topic/ Thema der Arbeit</td>
-        <td>Type of Thesis/ Art der Arbeit</td>
-        <td>Studies/ Studiengang</td>
-    </tr>
+
     <tr>
         <td>Max Goebel</td>
         <td>Modelling and Simulation of a three-legged robot</td>
