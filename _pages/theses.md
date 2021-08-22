@@ -35,7 +35,13 @@ The following is a list of open current and completed thesis at this lab.
 
 ## Ongoing theses / Laufende Arbeiten
 <table>
-    <tr>
+
+</table>
+
+## completed theses / Abgeschlossene Arbeiten
+
+<table>
+      <tr>
         <td>student</td>
         <td>Thesis Topic/ Thema der Arbeit</td>
         <td>Type of Thesis/ Art der Arbeit</td>
@@ -65,11 +71,6 @@ The following is a list of open current and completed thesis at this lab.
         <td></td>
         <td></td>
     </tr>
-</table>
-
-## completed theses / Abgeschlossene Arbeiten
-
-<table>
     <tr>
         <td>student</td>
         <td>Thesis Topic/ Thema der Arbeit</td>
