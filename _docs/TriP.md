@@ -10,7 +10,7 @@ layouts_gallery:
 toc: false
 ---
 
-![trip logo](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/TriP.png)
+![trip logo](https://raw.githubusercontent.com/TriPed-Robot/TriP/main/docs/source/trip_logo.svg)
 TriP is a Python library for the kinematic presentation and calculation of hybrid chains, meaning kinematich mechanism wich include both open and closed chains.
 The Library is based on [Casadi](https://web.casadi.org/) and offers conventient formulations of DAE problems on  arbitrary kinematic mechanisms.
 
