@@ -11,10 +11,10 @@ toc: true
 
 ## Jan Baumgärtner
 Project Lead and coordinator of the TriPed Project <br>
-Website:  <a href="https://liquidcronos.github.io/"> liquidcronos.github.io</a> <br>
+Website:  <a href="jan-baumgaertner.tech"> https://www.jan-baumgaertner.tech/</a> <br>
 Office: INF 468 4 OG. Room 410 <br>
 Tel:  06221 - 54 16343 <br>
-Email: jan.baumgaertner@ziti.uni-heidelberg.de <br>  
+Email: contact@jan-baumgaertner.tech <br>   
 
 
 
