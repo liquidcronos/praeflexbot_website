@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "TriPed Project"
+locale                   : "de"
+title                    : "SDPräFlexBot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -121,24 +121,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "wbk"
+      icon: "https://www.wbk.kit.edu/img/WBK_rgb_D_transparenz.svg"
+       url: https://www.wbk.kit.edu/index.php
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TriPed-Robot"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/SDPraFlexbot"
 
 
 # Reading Files
