@@ -6,8 +6,6 @@ main:
     url: /team/
   - title: "Projektträger"
     url: https://www.icm.kit.edu/71.php?tab=%5B403%5D#tabpanel-403
-  - title: "News"
-    url: /news/
   - title: "Github"
     url: https://github.com/SDPraFlexbot
 
