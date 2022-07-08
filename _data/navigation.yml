@@ -6,6 +6,8 @@ main:
     url: /team/
   - title: "Projektträger"
     url: /project_sponsor/
+  - title: "News"
+    url: /news/
   - title: "Github"
     url: https://github.com/SDPraFlexbot
 
