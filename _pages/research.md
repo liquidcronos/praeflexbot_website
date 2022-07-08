@@ -5,6 +5,13 @@ layout: single
 toc: true
 ---
 
+![initial_system](images/initial_system.png)
+
+![opt_ctr_system](images/opt_ctr_system.png)
+
+![double_opt_ctr](images/double_opt_ctr_system.png)
+
+
 ## Forschungsfragen
 
 ## Veröffentlichungen
