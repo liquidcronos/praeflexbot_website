@@ -1,48 +1,14 @@
 # main links
 main:
-  - title: "Robot"
-    url: /docs/robot/ 
-  - title: "Research"
+  - title: "Forschung"
     url: /research/
-  - title: "Theses/Abschlussarbeiten"
-    url: /theses/
-  - title: "Team/Kontakt"
+  - title: "Team"
     url: /team/
+  - title: "Projektträger"
+    url: /project_sponsor/
   - title: "Github"
     url: https://github.com/TriPed-Robot
 
 
-docs:
-  - title: Hardware
-    children:
-      - title: "Robot Overview"
-        url: /docs/robot/
-      - title: "Legs"
-        url: /docs/legs/
-      - title: "Chassis"
-        url: /docs/chassis/
-      - title: "Kinematic Model"
-        url: /docs/kinematics/
-      - title: "Embedded Architecture"
-        url: /docs/embedded/
-        
-  - title: Walking
-    children:
-      - title: "Overview"
-        url: /docs/walking/
-      
 
-  - title: Software
-    children:
-      - title: "Software Architecture"
-        url: /docs/software_arch/
-      - title: "TriP Kinematics Library"
-        url: /docs/trip/
-        
-  - title: Matlab Simulation
-    children: 
-      - title: "About"
-        url: /docs/matlab_about/
-      - title: "Getting started"
-        url: /docs/matlab_getting_started/
 
