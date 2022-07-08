@@ -5,7 +5,7 @@ main:
   - title: "Team"
     url: /team/
   - title: "Projektträger"
-    url: /project_sponsor/
+    url: https://www.icm.kit.edu/71.php?tab=%5B403%5D#tabpanel-403
   - title: "News"
     url: /news/
   - title: "Github"
