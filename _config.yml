@@ -123,7 +123,7 @@ footer:
   links:
     - label: "wbk"
       icon: "https://www.wbk.kit.edu/img/WBK_rgb_D_transparenz.svg"
-       url: https://www.wbk.kit.edu/index.php
+       url: "https://www.wbk.kit.edu/index.php"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SDPraFlexbot"
