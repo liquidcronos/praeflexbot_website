@@ -37,10 +37,6 @@ Das Resultat ist eine deutlich präzisere Produktion der Zukunft.
 Mehr Informationen kann man auf dem [Projekt Onepager](https://www.icm.kit.edu/downloads/ICM-Projekte/ICM_Kurzvorstellung_SDManu3_SDPr%c3%a4FlexBot.pdf) finden.
 
 
-
-## Forschungsfragen
-
-## Veröffentlichungen
 ---
 
 
