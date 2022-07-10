@@ -34,6 +34,8 @@ Da dies bei komplexen und großen Schweißbahn mehrfach passieren muss wird das 
 Zusammen mit dem optischen Messystem soll hier der absolute Positionsfehler als auch die Streuung minimiert werden.
 Das Resultat ist eine deutlich präzisere Produktion der Zukunft. 
 
+Mehr Informationen kann man auf dem [Projekt Onepager](https://www.icm.kit.edu/downloads/ICM-Projekte/ICM_Kurzvorstellung_SDManu3_SDPr%c3%a4FlexBot.pdf) finden.
+
 
 
 ## Forschungsfragen
